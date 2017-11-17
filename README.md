@@ -6,3 +6,5 @@ Everything is going on in the TestApp project, inside .cs files. Everything is d
 Installations folder contains an .apk file for Android phones. It is a small demonstration of native controls, and embedded websites.
 
 iOS (and Windows Phone) version would look similar, but I don't have a PC with OS X, so sadly I can't compile the iOS version. But it _should_ look very similar to the Android version :)
+
+This is based on tutorials from xamarin.com and sitepoint.com, and official documentation.
